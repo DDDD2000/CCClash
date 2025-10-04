@@ -1,0 +1,3 @@
+payload:
+  - '+.a1.mzstatic.com'
+  - '+.www.everiaclub.com'
